@@ -1,9 +1,8 @@
 # address
-1. Terabox Link Address
+1. download for dental bracket
 
-- https://terabox.com/s/1bSaVBeUnV5VP1BB3IEHH3Q
-- https://terabox.com/s/13-_AUn0rHXBsCnVlXdg-iQ
-
+- https://drive.google.com/file/d/1nLU5eIx2gA9zYJ2bZn4ZhfuEwojua7eW/view?usp=drive_link
+- https://drive.google.com/file/d/1Yq4KnFon0Zbr1uW8e_Cxq4en2BDZ6wpe/view?usp=sharing
 
 2. Visual Studio 2022 Offline Installer
 
