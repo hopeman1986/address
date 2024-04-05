@@ -8,7 +8,7 @@
 
 2. Python Package for Pytorch 1.13.1 + cu11x
 
-- https://terabox.com/s/1GLD_7OnRME9Wb-Hz00Qfqg
+- https://terabox.com/s/14ex8zC9y5HJXG9Gs477r7g
 
 
 3. TRX(TRC20) (network), USDT
