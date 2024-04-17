@@ -1,17 +1,9 @@
 # address
-1. download for dental bracket
+1. download for dental implant
 
-- https://terabox.com/s/1RyeW7DaobGmKpOU0BrNeIw
+- https://terabox.com/s/1BBwC_anH5T9j19GdW2u-Tw
 
-
-
-
-2. Python Package for Pytorch 1.13.1 + cu11x
-
-- https://terabox.com/s/14ex8zC9y5HJXG9Gs477r7g
-
-
-3. TRX(TRC20) (network), USDT
+2. TRX(TRC20) (network), USDT
 - TVR4XkG2CCja18WYj4cCA5qxPJ3ffaBJUi
 
 
