@@ -9,5 +9,9 @@
 
 
 
-mail address: ipanda0714@gmail.com
+mail address:    ipanda0714@gmail.com
+telegram:        https://t.me/hopeman998
+
+main dev ung:    +86 119 1293  0461 
+dia:    +86 119 5735 1128
 phone number: +86 119 1326 0119
