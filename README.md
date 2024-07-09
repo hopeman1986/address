@@ -1,7 +1,7 @@
-# CAD Implant 
-1. download for dental implant
+# Python Simulation 
+1. download for Python Simulation (27MB)
 
-- https://terabox.com/s/1BBwC_anH5T9j19GdW2u-Tw
+- https://terabox.com/s/1d5DGeBcDLMKHFjIBmqgbaA
 
 
 2. TRX(TRC20) (network), USDT
@@ -12,6 +12,3 @@
 mail address:    ipanda0714@gmail.com
 telegram:        https://t.me/hopeman998
 
-main dev ung:    +86 119 1293  0461 
-dia:    +86 119 5735 1128
-phone number: +86 119 1326 0119
